@@ -63,32 +63,29 @@ education:
 experiences:
     title: Experiència laboral
     info:
-      - role: Mestre en pràctiques (Educació Primària)
-        time: 2020 - 2021
+      - role: Mestre en pràctiques - Educació Primària (Cicle Superior)
         company: Escola Angeleta Ferrer (Mataró)
+        
+      - role: Dinamitzador de tallers de Llengua Espanyola
+        company: Szkoła podstawowa TAK (Opole, Polonia)
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Mestre en pràctiques - Educació Infantil i Primària (Parvulari i Cicle Inicial)
+        company: Escola Serena Vall (Sant Andreu de Llavaneres)
+
+      - role: Mestre en pràctiques - Educació Infantil (Llar d'Infants)
+        company: Escola Bressol Sant Nicolau (Sant Andreu de Llavaneres)
+      
+      - role: Kitchen porter, Chef assistant & Chef
+        company: MÁS Q MENOS Tapas Bar (Holborn & Soho, Londres, Regne Unit)
+
+      - role: Mestre en pràctiques - Educació Primària (Cicle Mitjà)
+        company: Col·legi Sagrat Cor de Jesús (Vic)
+
+      - role: Observacions de mestres - Educació Primària (Cicle Inicial)
+        company: Escola Guillem de Mont-Rodon (Vic)
+
+      - role: Tècnic i recaudador de màquines recreatives
+        company: Nova Catalana, S.L.U. (Barcelona)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://github.com/governmundial" target="_blank" rel="nofollow">Víctor Palomares</a>
