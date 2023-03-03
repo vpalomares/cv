@@ -29,18 +29,6 @@ sidebar:
         - idiom: English
           level: B2
 
-    interests:
-      title: Altres dades
-      info:
-        - item: Carnet de discapacitat física del 33% sense necesitat de 3ª persona.
-          link:
-
-        - item: Alts coneixements informàtics.
-          link:
-
-        - item: Carnet B i vehicle propi.
-          link:
-
 career-profile:
     title: Perfil personal
     summary: |
@@ -90,11 +78,11 @@ experiences:
 publications:
     title: Altres dades
     papers:
-      - title: The Art of Computer Programming
+      - title: Carnet de discapacitat física del 33% sense necesitat de 3ª persona.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Alts coneixements informàtics.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Carnet B i vehicle propi.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://github.com/governmundial" target="_blank" rel="nofollow">Víctor Palomares</a>
