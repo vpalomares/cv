@@ -65,7 +65,7 @@ experiences:
     info:
       - role: Mestre en pràctiques - Educació Primària (Cicle Superior)
         company: Escola Angeleta Ferrer (Mataró)
-        
+
       - role: Dinamitzador de tallers de Llengua Espanyola
         company: Szkoła podstawowa TAK (Opole, Polonia)
 
@@ -86,6 +86,15 @@ experiences:
 
       - role: Tècnic i recaudador de màquines recreatives
         company: Nova Catalana, S.L.U. (Barcelona)
+
+publications:
+    title: Altres dades
+    papers:
+      - title: The Art of Computer Programming
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+
+      - title: A syntax directed compiler for Algol 60
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://github.com/governmundial" target="_blank" rel="nofollow">Víctor Palomares</a>
