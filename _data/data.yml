@@ -20,14 +20,14 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Català
+          level: nadiu
+
+        - idiom: Español
+          level: nadiu
+
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+          level: B2
 
     interests:
       title: Interests
