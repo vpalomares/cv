@@ -18,7 +18,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Llengües
       info:
         - idiom: Català
           level: nadiu
@@ -30,9 +30,9 @@ sidebar:
           level: B2
 
     interests:
-      title: Interests
+      title: Altres dades
       info:
-        - item: Climbing
+        - item: Carnet de discapacitat física del 33% sense necesitat de 3ª persona.
           link:
 
         - item: Snowboarding
