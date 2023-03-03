@@ -15,7 +15,6 @@ sidebar:
     email: victor.palomares@proton.me
     phone: +34 625 389 929
     linkedin: vpalomares
-    github: governmundial
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -43,11 +42,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil personal
     summary: |
       Soc una persona honesta i positiva. Disposo de bones habilitats per a solucionar problemes i veure les coses des d'altres punts de vista. M'agrada treballar en equip. Em considero una persona molt capaç d'afrontar nous reptes, amb gran capacitat d'adaptació per tal de poder aconseguir objectius tangibles.
 education:
-    title: Education
+    title: Educació
     info:
       - degree: MSc in Computer Science
         university: University of London
